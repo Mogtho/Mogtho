@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mogtho
-- 👀 I’m interested in 9nformation,lunch,automation, IT AND DATASCIENCE ML.  
-- 🌱 I’m currently learning Git,Sql database mngmnt,c,HTML, CSS, JAVASCRIPT, C#, PYTHON, AND  
+- 👀 I’m interested in 9nformation,lunch,automation, IT AND DATASCIENCE ML, AI.  
+- 🌱 I’m currently learning LIFE  
 - 💞️ I’m looking to collaborate on --> Something out of the ordinary. 
 - 📫 How to reach me MOG ON YOUTUBE. 
 
